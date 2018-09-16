@@ -3,7 +3,7 @@
 blog_theme: dark # Or use dark
 name: Rahul
 paginate: 25
-url: https://kb-rahul.github.io/chalk# add your site url (format: https://example.com)
+url: https://kb-rahul.github.io/chalk/ # add your site url (format: https://example.com)
 
 
 # Optional settings
